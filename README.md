@@ -1,7 +1,7 @@
-# Welcome to my Github! :computer:
+# Welcome to my Github! ^^
 
-![GitHub followers](https://img.shields.io/github/followers/jpgSouza?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
+![GitHub followers](https://img.shields.io/github/followers/Cividadti?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
 
 <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
 
