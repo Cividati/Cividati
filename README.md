@@ -1,6 +1,6 @@
 # Welcome to my Github! ^^
 
-![GitHub followers](https://img.shields.io/github/followers/Cividadti?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
 
 <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
@@ -25,4 +25,4 @@ Atualmente cursando o 9º de Engenharia da Computação no Inatel, atuo como mon
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/bash.svg" alt="angular" style="vertical-align:top; margin:4px">
 </p>
 
-![Joao Pedro github stats](https://github-readme-stats.vercel.app/api?username=jpgSouza&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true)
