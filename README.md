@@ -17,9 +17,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/flutter.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/dart_colour.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/bash.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <a href="https://www.linkedin.com/in/rubens-cividati/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 </p>
 
+## My summary
 ![](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true)
