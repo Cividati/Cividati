@@ -1,11 +1,7 @@
-### Hey, I'm [Rubens!](https://github.com/cividati/cividati#)
+# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
 
 ![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
-
-<a href="https://www.linkedin.com/in/rubens-cividati/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 
@@ -21,6 +17,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/flutter.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/dart_colour.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/bash.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <a href="https://www.linkedin.com/in/rubens-cividati/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true)
