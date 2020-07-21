@@ -3,12 +3,30 @@
 ![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
 
-<img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
-
 <p align='center'>
 <a href="https://instagram.com/jpg_souza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jpgsouza/"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/linkedin.png"></a>
-</p>
+</p> 
+
+<a href="https://twitter.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AjayKhalsa">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/AjayKhalsa">
+  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.kaggle.com/ajaykhalsa">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<br />
 
 Sou um entusiasta na área de desenvolvimento mobile e suas tecnologias. Me dedico exclusivamente em ferramentas e plataformas como Java, Android e Flutter.
 
