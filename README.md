@@ -20,3 +20,4 @@ Hello, my name is Rubens Cividati, I am a software engineering student at [Inate
 
 ## My summary
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&theme=dracula)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&repo=github-readme-stats)](https://github.com/Cividati/Correlation)
