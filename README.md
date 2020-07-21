@@ -1,30 +1,16 @@
-# Welcome to my Github! ^^
+### Hey, I'm [Rubens!](https://github.com/cividati/cividati#)
 
 ![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
 
-<p align='center'>
-<a href="https://instagram.com/jpg_souza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jpgsouza/"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/linkedin.png"></a>
-</p> 
-
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/rubens-cividati/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<br />
 
-Sou um entusiasta na área de desenvolvimento mobile e suas tecnologias. Me dedico exclusivamente em ferramentas e plataformas como Java, Android e Flutter.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 
-Atualmente cursando o 9º de Engenharia da Computação no Inatel, atuo como monitor da disciplina de Programação Orientada a Objetos com Java. Possuo também experiência na área de pesquisa com o programa de Iniciação Científica voltado para a área de Engenharia da Computação. Além disso, sou voluntário nas atividades do Facebook Developer Circles, grupo apoiado pela empresa Facebook, e participei da organização do HackTown - SRS.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 
 ## Linguagens e Ferramentas ⚡
 <p>
