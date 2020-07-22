@@ -1,5 +1,5 @@
 # Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
-[![](https://img.shields.io/badge/LinkedIn-rubenscividati-blue)](https://www.linkedin.com/in/rubens-cividati)
+[![](https://img.shields.io/badge/LinkedIn-rubenscividati-blue)](https://www.linkedin.com/in/rubenscividati)
 [![](https://img.shields.io/badge/Gmail-rubenscividati@gmail.com-red)](mailto:rubenscividati@gmail.com)
 
 <p align="right">
@@ -38,11 +38,5 @@
 <p align="right">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true">
  <img src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true">
- 
-
 </p>
 
-## My favorite repository
-<p align="center
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation">
- </p>
