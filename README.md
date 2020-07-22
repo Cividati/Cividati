@@ -18,17 +18,12 @@ Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software e
 <p align="left">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/mobile.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/android_studio.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/eclipse.svg" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/flutter.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/dart_colour.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/bash.svg" alt="angular" style="vertical-align:top; margin:4px">
 </p>
 
 ## My summary
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true&theme=dracula)](https://github.com/Cividati/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true)](https://github.com/Cividati/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true)
 
 ## scientific initiation
-[![ReadMe Card rep](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&theme=dracula&repo=Correlation)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card rep](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation)](https://github.com/anuraghazra/github-readme-stats)
