@@ -19,8 +19,12 @@ Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engine
 
 ## My summary
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true)](https://github.com/Cividati/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true)
+<p align="right">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true">
+ 
+
+</p>
 
 ## My favorite repository
 [![ReadMe Card rep](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation)](https://github.com/anuraghazra/github-readme-stats)
