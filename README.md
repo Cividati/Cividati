@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 
-Hello, my name is Rubens Cividati, I am a software engineering student at [Inatel](https://inatel.br) (National Institute of Telecomunications. I love to code randoom stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
+Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software engineering student at [Inatel](https://inatel.br) (National Institute of Telecomunications. I love to code randoom stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
 
 ## Linguagens e Ferramentas ⚡
 <p>
