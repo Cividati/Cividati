@@ -40,4 +40,6 @@
 </p>
 
 ## My favorite repository
+<p align="left">
 [![ReadMe Card rep](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
