@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-rubens.cividati@gmail.com-red)](mailto:rubens.cividati@gmail.com)
 
 <p align="right">
- <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="500"/>
+ <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="500"/>-->
 </p>
 
 ```Python
