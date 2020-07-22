@@ -1,7 +1,7 @@
-# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
+# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^ ![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social) ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
 
-![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
+
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 <br>
