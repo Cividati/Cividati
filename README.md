@@ -10,7 +10,7 @@
  age: 21
  passion: "games, coding and investing"
 ```
-Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
+<!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
 
 ## Favorite languages and tools⚡
 
