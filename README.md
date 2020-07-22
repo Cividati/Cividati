@@ -1,10 +1,8 @@
-# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^ ![GitHub followers](https://img.shields.io/github/followers/Cividati?label=Follow&style=social) ![](https://visitor-badge.glitch.me/badge?page_id=Cividati.Cividati)
-
-
-
+# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 <br>
+
 Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
 <br>
 <br>
