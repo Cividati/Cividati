@@ -12,7 +12,9 @@ Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software e
 <br>
 <br>
 <br>
+
 ## Languages and tools⚡
+
 <p align="left">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/mobile.svg" alt="angular" style="vertical-align:top; margin:4px">
