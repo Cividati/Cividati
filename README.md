@@ -1,4 +1,7 @@
 # Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
+[![](https://img.shields.io/badge/LinkedIn-rubenscividati-blue)](https://www.linkedin.com/in/rubens-cividati)
+[![](https://img.shields.io/badge/Gmail-rubenscividati@gmail.com-red)](mailto:rubenscividati@gmail.com)
+
 <p align="right">
  <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="350"/>
 </p>
@@ -40,6 +43,6 @@
 </p>
 
 ## My favorite repository
-<p align="left">
-[![ReadMe Card rep](https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cividati&show_icons=true&repo=Correlation">
  </p>
