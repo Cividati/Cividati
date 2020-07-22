@@ -1,9 +1,10 @@
 # Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
-
+<p align="right">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
+ </p>
 <br>
 
-Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
+Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
 <br>
 <br>
 <br>
