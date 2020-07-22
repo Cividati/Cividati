@@ -5,11 +5,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" />
 
-Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software engineering student at [Inatel](https://inatel.br) (National Institute of Telecomunications. I love to code randoom stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
+Hello, my name is Rubens Cividati, I am 21 years old, Brazilian and a software engineering student at [Inatel](https://inatel.br) (National Institute of Telecomunications. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!
 
-## Linguagens e Ferramentas ⚡
-<p>
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/java.svg" alt="angular" style="vertical-align:top; margin:4px">
+## Languages and tools⚡
+<p align="left">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/mobile.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/android_studio.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/eclipse.svg" style="vertical-align:top; margin:4px">
