@@ -1,6 +1,6 @@
 # Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
 [![](https://img.shields.io/badge/LinkedIn-rubenscividati-blue)](https://www.linkedin.com/in/rubenscividati)
-[![](https://img.shields.io/badge/Gmail-rubenscividati@gmail.com-red)](mailto:rubenscividati@gmail.com)
+[![](https://img.shields.io/badge/Gmail-rubens.cividati@gmail.com-red)](mailto:rubenscividati@gmail.com)
 
 <p align="right">
  <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="500"/>
