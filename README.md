@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-rubenscividati@gmail.com-red)](mailto:rubenscividati@gmail.com)
 
 <p align="right">
- <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="350"/>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="500"/>
 </p>
 
 ```Python
@@ -17,21 +17,21 @@
 
 ## Favorite languages and tools⚡
 
-
-
 ```Python
  class tech_info:
  languages: ["Python", "JavaScript", "Java", "C#"]
  tools: ["VS Code", "GIT", "Google Drive"]
 ```
+
+<!--
 <p align="left">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="Python">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg" alt="Google Cloud">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  
 </p>
+-->
 
 ## My summary
 
