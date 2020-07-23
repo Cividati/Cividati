@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-rubens.cividati@gmail.com-red)](mailto:rubens.cividati@gmail.com)
 
 <p align="right">
- <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="250"/>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300"/>
 </p>
 
 ```Python
@@ -19,7 +19,7 @@
 ## Favorite languages and tools
 
 <p align="right">
- <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 </p>
 
 ```Python
