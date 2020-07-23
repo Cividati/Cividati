@@ -10,7 +10,7 @@
  class about_me:
  name: "Rubens Cividati"
  summary: "software engineering student at Inatel game developer
- and investor at free times"
+           and investor at free times"
  age: 21
  passion: "games, coding and investing"
 ```
