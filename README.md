@@ -1,4 +1,4 @@
-# Welcome to my [Github!](https://github.com/cividati/cividati#) ^.^
+# Welcome to my [Github!](https://github.com/cividati#) ^.^
 [![](https://img.shields.io/badge/LinkedIn-rubenscividati-blue)](https://www.linkedin.com/in/rubenscividati)
 [![](https://img.shields.io/badge/Gmail-rubens.cividati@gmail.com-red)](mailto:rubens.cividati@gmail.com)
 
