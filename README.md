@@ -3,19 +3,24 @@
 [![](https://img.shields.io/badge/Gmail-rubens.cividati@gmail.com-red)](mailto:rubens.cividati@gmail.com)
 
 <p align="right">
- <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="500"/>-->
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="250"/>
 </p>
 
 ```Python
  class about_me:
  name: "Rubens Cividati"
- summary: "software engineering student at Inatel game developer and investor at free times"
+ summary: "software engineering student at Inatel game developer
+ and investor at free times"
  age: 21
  passion: "games, coding and investing"
 ```
 <!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
 
 ## Favorite languages and tools⚡
+
+<p align="right">
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+</p>
 
 ```Python
  class tech_info:
@@ -35,8 +40,7 @@
 
 ## My summary
 
-<p align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cividati&show_icons=true">
+<p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true">
 </p>
 
