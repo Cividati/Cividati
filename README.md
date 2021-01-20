@@ -25,7 +25,7 @@
 ```Python
  class tech_info:
    languages: ["Python", "JavaScript", "Java", "C#"]
-   tools: ["VS Code", "GIT", "Google Drive"]
+   tools: ["VS Code", "GIT", "Docker", "Kubernetes"]
 ```
 
 <!--
