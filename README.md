@@ -9,9 +9,10 @@
 ```Python
  class about_me:
    name: "Rubens Cividati"
-   summary: "Computer engineering student at Inatel, card game lover,
-            DevOps intern at 4Intelligence, game developer, amateur 
-            chess player and investor at free times"
+   summary: "Computer engineering student at Inatel, DevOps 
+            intern at 4Intelligence, card game lover, game 
+            developer, amateur chess player and investor at 
+            free times"
    age: 22
    passion: "Games, coding, chess and investing"
 ```
