@@ -14,7 +14,7 @@
             developer, amateur chess player and investor at 
             free times"
    age: 22
-   passion: "Games, coding, chess and investing"
+   passion: "Games, coding and investing"
 ```
 <!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, DevOps intern at <a href="https://4intelligence.com.br/">4Intelligence</a>, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
 
