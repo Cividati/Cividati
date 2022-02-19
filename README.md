@@ -6,7 +6,7 @@
  
 ## 👽 About me 
 
-<!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/b2/22/1cb2226ca4742187ad382a736591972e.gif" width="320"/> -->
+<img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eab6cc47-e9ea-4310-88ed-ba829f8f32f1/d931ea2-9366189c-0648-41ce-8da0-f3f5b2dc5131.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYWI2Y2M0Ny1lOWVhLTQzMTAtODhlZC1iYTgyOWY4ZjMyZjEvZDkzMWVhMi05MzY2MTg5Yy0wNjQ4LTQxY2UtOGRhMC1mM2Y1YjJkYzUxMzEuZ2lmIn1dXX0.2ShlJprv2WLcG41RYZL-UaUo8bA67ki0-0SV9J0q9g4" width="280"/>
 
 ```Python
  class about_me:
@@ -24,7 +24,7 @@
 
 ## 💻 Work Experience 
 
-<!-- <img align="right" alt="GIF" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" width="320"/> -->
+<img align="right" alt="GIF" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="280"/>
 
 ```Python
  class work_experience:
