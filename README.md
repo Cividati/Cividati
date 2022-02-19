@@ -6,7 +6,7 @@
 ## 👽 About me 
 
 <p align="right">
- <img align="right" alt="GIF" src="https://i.redd.it/w2n81iqx37p51.gif" width="300"/>
+ <img align="right" alt="GIF" src="https://c.tenor.com/7RLlLi_p0ocAAAAC/ramiel-neon-genesis-evangelion.gif" width="300"/>
 </p>
 
 ```Python
@@ -29,31 +29,27 @@
  <img align="right" alt="GIF" src="https://c.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif" width="300"/>
 </p>
 
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat-square&logo=icloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=icloud&logoColor=white&color=0062AD)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=Kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat-square&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF)
-
-![](https://img.shields.io/badge/Egine-Unity3D-informational?style=flat-square&logo=Unity&logoColor=white&color=FFFFFF)
-![](https://img.shields.io/badge/Egine-UnrealEngine-informational?style=flat-square&logo=UnrealEngine&logoColor=white&color=0E1128)
-![](https://img.shields.io/badge/Egine-Construct-informational?style=flat-square&logo=Construct3&logoColor=white&color=#00FFDA)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=0078D6)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/Code-C-Sharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/Code-LUA-informational?style=flat-square&logo=lua&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=flat-square&logo=SQLite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/Database-Cassandra-informational?style=flat-square&logo=ApacheCassandra&logoColor=white&color=1287B1)
-![](https://img.shields.io/badge/Database-PostgreeSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/GCP-informational?style=flat-square&logo=icloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Azure-informational?style=flat-square&logo=icloud&logoColor=white&color=0062AD)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=Kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Github-informational?style=flat-square&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/GithubActions-informational?style=flat-square&logo=github-actions&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Unity3D-informational?style=flat-square&logo=Unity&logoColor=white&color=181717)
+![](https://img.shields.io/badge/UnrealEngine-informational?style=flat-square&logo=UnrealEngine&logoColor=white&color=0E1128)
+![](https://img.shields.io/badge/Construct-informational?style=flat-square&logo=Construct3&logoColor=white&color=0E1128)
+![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=linux&logoColor=black&color=FCC624)
+![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
+![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/LUA-informational?style=flat-square&logo=lua&logoColor=white&color=00F)
+![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/SQLite-informational?style=flat-square&logo=SQLite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/PostgreeSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Neo4j-informational?style=flat-square&logo=neo4j&logoColor=white&color=4169E1)
 
 <p align="right">
  <img align="right" alt="GIF" src="https://thumbs.gfycat.com/CanineSameEwe-max-1mb.gif" width="300"/>
