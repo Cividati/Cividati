@@ -6,7 +6,7 @@
  
 ## 👽 About me 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/b2/22/1cb2226ca4742187ad382a736591972e.gif" width="320"/>
+<!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/b2/22/1cb2226ca4742187ad382a736591972e.gif" width="320"/> -->
 
 ```Python
  class about_me:
@@ -24,7 +24,7 @@
 
 ## 💻 Work Experience 
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" width="320"/>
+<!-- <img align="right" alt="GIF" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" width="320"/> -->
 
 ```Python
  class work_experience:
