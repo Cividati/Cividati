@@ -6,7 +6,7 @@
  
 ## 👽 About me 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/b2/22/1cb2226ca4742187ad382a736591972e.gif" width="350"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/b2/22/1cb2226ca4742187ad382a736591972e.gif" width="320"/>
 
 ```Python
  class about_me:
@@ -24,7 +24,7 @@
 
 ## 💻 Work Experience 
 
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" width="350"/>
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif" width="320"/>
 
 ```Python
  class work_experience:
@@ -34,7 +34,6 @@
 ```
 
 ## ⚙ Technologies and Tools
-
 
 ![](https://img.shields.io/badge/GCP-informational?style=flat-square&logo=GoogleCloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Azure-informational?style=flat-square&logo=MicrosoftAzure&logoColor=white&color=0078D4)
