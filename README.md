@@ -63,13 +63,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cividati&hide_border=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cividati&theme=darcula&langs_count=3" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cividati&theme=darcula&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="cividati's GitHub Stats" />
-</a>
-
+![](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
 
 Icons powered by [Simple Icons](https://simpleicons.org/)
