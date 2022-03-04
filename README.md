@@ -1,4 +1,4 @@
-# 👾 Welcome to my [Github!](https://github.com/cividati#)👾
+# 👾 Welcome to my [Github!](https://github.com/cividati#)👾 <img src="/src/wave.gif" width="30px">
 <a href = "mailto:rubens.cividati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" target="_blank"></a>
 <a href="https://rubenscividati.com" target="_blank"><img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=Site&logoColor=white&color=47A141" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rubenscividati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white*color=0A66C2" target="_blank"></a> 
@@ -63,8 +63,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cividati&hide_border=true&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cividati&hide_border=true&theme=radical" />
+</p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
 
