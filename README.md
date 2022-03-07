@@ -3,7 +3,6 @@
 <a href="https://rubenscividati.com" target="_blank"><img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=Site&logoColor=white&color=47A141" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rubenscividati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white*color=0A66C2" target="_blank"></a> 
 
- 
 ## 👽 About me 
 
 <img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eab6cc47-e9ea-4310-88ed-ba829f8f32f1/d931ea2-9366189c-0648-41ce-8da0-f3f5b2dc5131.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYWI2Y2M0Ny1lOWVhLTQzMTAtODhlZC1iYTgyOWY4ZjMyZjEvZDkzMWVhMi05MzY2MTg5Yy0wNjQ4LTQxY2UtOGRhMC1mM2Y1YjJkYzUxMzEuZ2lmIn1dXX0.2ShlJprv2WLcG41RYZL-UaUo8bA67ki0-0SV9J0q9g4" width="280"/>
