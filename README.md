@@ -27,7 +27,7 @@
 
 ```Python
  class work_experience:
-   name: "Devops Intern"
+   name: "Devops Analyst"
      since: "jan/2021 - Current"
      where: "4Intelligence"
 ```
