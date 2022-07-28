@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/Azure-informational?style=flat-square&logo=MicrosoftAzure&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=Kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Terraform-informational?style=flat-square&logo=Terraform&logoColor=white&color=7B42BC)
 ![](https://img.shields.io/badge/Github-informational?style=flat-square&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/GithubActions-informational?style=flat-square&logo=github-actions&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Unity3D-informational?style=flat-square&logo=Unity&logoColor=white&color=181717)
@@ -48,6 +49,7 @@
 ![](https://img.shields.io/badge/VisualCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/VisualStudio-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Go-informational?style=flat-square&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=239120)
@@ -70,3 +72,5 @@
 ![](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
 
 Icons powered by [Simple Icons](https://simpleicons.org/)
+ 
+Badges powered by [Shields](https://shields.io/)
