@@ -17,7 +17,7 @@
             learn new technologies and features that can help on developing     \
             proccess."
    age: 24
-   passion: ["coding, "chess", "Pokémon"]
+   passion: ["coding, "chess", "pokémon"]
 ```
 <!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, DevOps intern at <a href="https://4intelligence.com.br/">4Intelligence</a>, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
 
