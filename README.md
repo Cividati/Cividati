@@ -11,12 +11,12 @@
  class about_me:
    name: "Rubens Cividati"
    summary: "Hello! :) I'm from Minas Gerais, Brazil (pão de queijo's land),    \
-            24 years old Computer engineering student at Inatel, DevOps intern  \
-            at 4Intelligence, really like coffe but my gastritis don't, game    \
+            25 years old Computer engineering at Inatel, DevOps Engineer        \
+                            , really like coffe but my gastritis don't, game    \
             developer at free times and amateur chess player. I really love to  \
             learn new technologies and features that can help on developing     \
             proccess."
-   age: 24
+   age: 25
    passion: ["coding", "gaming", "chess", "pokémon"]
 ```
 <!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, DevOps intern at <a href="https://4intelligence.com.br/">4Intelligence</a>, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
@@ -28,7 +28,7 @@
 ```Python
  class work_experience:
    name: "Devops Engineer"
-     since: "jan/2021 - Current"
+     since: "jan/2021 - dez/2023"
      where: "4Intelligence"
 ```
 
