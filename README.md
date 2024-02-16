@@ -1,7 +1,7 @@
 # 👾 Welcome to my Githubens 👾
 <a href = "mailto:rubens.cividati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" target="_blank"></a>
-<!-- <a href="http://cividati.games" target="_blank"><img src="https://img.shields.io/badge/MyGames-informational?style=for-the-badge&logo=Site&logoColor=white&color=47A141" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/rubenscividati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white*color=0A66C2" target="_blank"></a> 
+<!-- <a href="http://cividati.games" target="_blank"><img src="https://img.shields.io/badge/MyGames-informational?style=for-the-badge&logo=Site&logoColor=white&color=47A141" target="_blank"></a> -->
 
 ## 👽 About me 
 
