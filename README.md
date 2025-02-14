@@ -7,29 +7,23 @@
 
 <img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eab6cc47-e9ea-4310-88ed-ba829f8f32f1/d931ea2-9366189c-0648-41ce-8da0-f3f5b2dc5131.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lYWI2Y2M0Ny1lOWVhLTQzMTAtODhlZC1iYTgyOWY4ZjMyZjEvZDkzMWVhMi05MzY2MTg5Yy0wNjQ4LTQxY2UtOGRhMC1mM2Y1YjJkYzUxMzEuZ2lmIn1dXX0.2ShlJprv2WLcG41RYZL-UaUo8bA67ki0-0SV9J0q9g4" width="280"/>
 
-```Python
- class about_me:
-   name: "Rubens Cividati"
-   summary: "Hello! :) I'm from Minas Gerais, Brazil (pão de queijo's land),    \
-            25 years old Computer engineering at Inatel, DevOps Engineer        \
-            really like coffe but my gastritis don't, game   developer at       \
-            free times and amateur chess player. I really love to spending  \
-            time prototyping raspberry pi projects."
-   age: 25
-   passion: ["coding", "gaming", "chess", "pokémon"]
-```
+Hey there! 👋
+
+I'm Rubens Cividati, a DevOps Engineer passionate about automation, cloud computing, and gaming! 🚀
+
+- 🎓 Bachelor’s in Computer Engineering – Inatel
+- 💼 Experience with DevOps – Cloud, CI/CD, Infrastructure as Code (Terraform), Kubernetes
+- ☁ Working with Azure & GCP – Always learning more about cloud technologies
+- 🎮 Game Dev Enthusiast – Creating cyberpunk RPG adventures in my free time
+- ♟ Amateur Chess Player – Trying to outsmart opponents (and sometimes failing 😆)
+- 🤖 Tech Hobbyist – Love tinkering with Raspberry Pi & automation projects
+
+☕ Big coffee fan, but my gastritis disagrees.
+
+Let’s connect! 🚀
 <!--Hello, my name is Rubens Cividati, I am 21 years old, Brazilian, software engineering student at <a href="https://inatel.br">Inatel</a> (National Institue of Telecomunication, DevOps intern at <a href="https://4intelligence.com.br/">4Intelligence</a>, game developer and investor at free times. I love to code random stuffs to improve my knowledge. Feel free to make a pull request of any code in here!-->
 
-## 💻 Work Experience 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="280"/>
-
-```Python
- class work_experience:
-   name: "Devops Engineer"
-     since: "jan/2021 - dez/2023"
-     where: "4Intelligence"
-```
 
 ## ⚙ Technologies and Tools
 
