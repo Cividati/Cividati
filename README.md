@@ -14,10 +14,10 @@ I'm Rubens Cividati, a DevOps Engineer passionate about automation, cloud comput
 
 - 🎓 Bachelor’s in Computer Engineering – Inatel
 - 💼 Experience with DevOps – Cloud, CI/CD, Infrastructure as Code (Terraform), Kubernetes
-- ☁ Working with Azure & GCP – Always learning more about cloud technologies
-- 🎮 Game Dev Enthusiast – Creating cyberpunk RPG adventures in my free time
-- ♟ Amateur Chess Player – Trying to outsmart opponents (and sometimes failing 😆)
+- ☁ Cloud Architect – If googling error messages counts! 😆
+- ♟ Amateur Chess Player – Trying to outsmart opponents (and mostly failing 😆)
 - 🤖 Tech Hobbyist – Love tinkering with Raspberry Pi & automation projects
+- 🎥 Huge Studio Ghibli Fan – Nothing beats a cozy night watching Spirited Away or Howl’s Moving Castle ✨
 
 ☕ Big coffee fan, but my gastritis disagrees.
 
