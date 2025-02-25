@@ -60,7 +60,7 @@ Let’s connect! 🚀
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=radical&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 
