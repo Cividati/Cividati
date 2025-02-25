@@ -59,12 +59,9 @@ Let’s connect! 🚀
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=radical&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=transparent" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=transparent&hide_border=true&short_numbers=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
 </p>
-
-
-![image](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
 
 Icons powered by [Simple Icons](https://simpleicons.org/)
  
