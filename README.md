@@ -63,6 +63,4 @@ Let’s connect! 🚀
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=transparent&hide_border=true&short_numbers=true&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
 </p>
 
-Icons powered by [Simple Icons](https://simpleicons.org/)
- 
-Badges powered by [Shields](https://shields.io/)
+Icons powered by [Simple Icons](https://simpleicons.org/)  |  Badges powered by [Shields](https://shields.io/)
