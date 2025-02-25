@@ -60,10 +60,11 @@ Let’s connect! 🚀
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Cividati&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cividati&hide_border=true&theme=radical" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cividati&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
+
+![image](https://activity-graph.herokuapp.com/graph?username=cividati&hide_border=true&theme=redical)
 
 Icons powered by [Simple Icons](https://simpleicons.org/)
  
